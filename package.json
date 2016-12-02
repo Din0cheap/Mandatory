@@ -1,0 +1,14 @@
+{
+  "name": "mandatory",
+  "version": "1.0.0",
+  "description": "Mandatory Assignment",
+  "author": "James Dean Martin",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+    },
+  "dependencies" : {
+    "express": "^4.13.3",
+    "mongodb": "^2.2.12"
+  }
+}
